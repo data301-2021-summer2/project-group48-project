@@ -25,4 +25,4 @@ The National Institute of Diabetes and Digestive and Kidney Disease collected da
 
 ## Project Explainer Video
 
-Link to Explainer video for project [here](https://www.placeholder.com)
+Link to explainer video for project [here](https://www.placeholder.com)
