@@ -4,7 +4,7 @@
 
 * Milestone 1: Find Dataset [here](https://firas.moosvi.com/courses/2021_ST2/data301/project/milestone01.html).
 * Milestone 2: Data Analysis [here](https://firas.moosvi.com/courses/2021_ST2/data301/project/milestone02.html).
-* Milestone 3: Adressing Feedback and Refinement[here](https://firas.moosvi.com/courses/2021_ST2/data301/project/milestone03.html).
+* Milestone 3: Adressing Feedback and Refinement [here](https://firas.moosvi.com/courses/2021_ST2/data301/project/milestone03.html).
 * Milestone 4: Dashboard Creation [here](https://firas.moosvi.com/courses/2021_ST2/data301/project/milestone04.html).
 
 ## Describe your topic/interest in about 150-200 words
