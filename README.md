@@ -2,7 +2,10 @@
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+Milestone 1: Find Dataset [here](https://canvas.ubc.ca/courses/71812/external_tools/24426).
+Milestone 2: Data Analysis [here](https://canvas.ubc.ca/courses/71812/external_tools/24426).
+Milestone 3: Adressing Feedback and Refinement[here](https://canvas.ubc.ca/courses/71812/external_tools/24426).
+Milestone 4: Dashboard Creation [here](https://canvas.ubc.ca/courses/71812/external_tools/24426).
 
 ## Describe your topic/interest in about 150-200 words
 
