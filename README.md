@@ -22,3 +22,7 @@ The National Institute of Diabetes and Digestive and Kidney Disease collected da
 ## References
 
 1. Center for Disease Control and Prevention. (June 11, 2020) Diabetes Basics. Retrived July 16,2020. https://www.cdc.gov/diabetes/basics/index.html
+
+## Project Explainer Video
+
+Link to Explainer video for project [here](https://www.placeholder.com)
